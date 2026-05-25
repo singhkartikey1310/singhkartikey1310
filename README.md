@@ -17,6 +17,7 @@
 * Java
 * JavaScript
 * Python
+* C++
 * HTML
 * CSS
 
@@ -27,6 +28,8 @@
 * VS Code
 * IntelliJ IDEA
 * MySQL
+* Netlify
+* Vercel
 
 ### Currently Exploring
 
