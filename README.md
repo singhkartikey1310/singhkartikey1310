@@ -1,16 +1,16 @@
-# Hi there 👋, I'm Kartikey Singh
+# Hi there, I'm Kartikey Singh
 
-## 🚀 About Me
+## About Me
 
-* 🎓 B.Tech student with a strong interest in **AI/ML**, **Full Stack Development**, and **Problem Solving**
-* 💻 Exploring technologies like **Java**, **JavaScript**, **MERN Stack**, and **Machine Learning**
-* 🧠 Currently learning **Data Structures & Algorithms** and **Design & Analysis of Algorithms**
-* 🌱 Building projects, participating in hackathons, and improving every day
-* ⚡ I enjoy turning ideas into real-world solutions through code
+*  B.Tech student with a strong interest in **AI/ML**, **Full Stack Development**, and **Problem Solving**
+*  Exploring technologies like **Java**, **JavaScript**, **MERN Stack**, and **Machine Learning**
+*  Currently learning **Data Structures & Algorithms** and **Design & Analysis of Algorithms**
+*  Building projects, participating in hackathons, and improving every day
+*  I enjoy turning ideas into real-world solutions through code
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 📚 What I'm Working On
+## What I'm Working On
 
 * Solving coding problems regularly
 * Learning advanced Java concepts
@@ -50,7 +50,7 @@
 
 ---
 
-## 🌟 Goals
+## Goals
 
 * Become a skilled Software Engineer
 * Build impactful AI-powered applications
@@ -59,7 +59,7 @@
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ```txt
 Code. Learn. Build. Repeat.
@@ -67,13 +67,13 @@ Code. Learn. Build. Repeat.
 
 ---
 
-## 💡 Favourite Quote
+##  Favourite Quote
 
 > “Every expert was once a beginner who refused to quit.”
 
 ---
 
-## 🌍 Connect With Me
+##  Connect With Me
 
 * GitHub: Add your GitHub link here
 * LinkedIn: Add your LinkedIn link here
@@ -81,7 +81,7 @@ Code. Learn. Build. Repeat.
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
 I enjoy learning technology deeply — from AI models to algorithms — while also appreciating calm evening landscapes and meaningful conversations.
 
