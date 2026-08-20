@@ -76,7 +76,7 @@ Code. Learn. Build. Repeat.
 ##  Connect With Me
 
 * GitHub: (https://github.com/singhkartikey1310)
-* LinkedIn: (https://github.com/singhkartikey1310)
+* LinkedIn: www.linkedin.com/in/singhkartikey1305
 * Email: kartikeydev05@gmail.com
 
 ---
