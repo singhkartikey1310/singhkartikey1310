@@ -30,6 +30,7 @@
 * MySQL
 * Netlify
 * Vercel
+* AWS EC2
 
 ### Currently Exploring
 
